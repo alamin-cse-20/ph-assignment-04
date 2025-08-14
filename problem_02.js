@@ -8,5 +8,6 @@ function  onlyCharacter( str ) {
     }
     else return "Invalid";
 }
-console.log(onlyCharacter(" SUST CSE 2020, hello babe! ummah "));
+console.log(onlyCharacter("Cy   bar- At  tac k  "));
+
 
