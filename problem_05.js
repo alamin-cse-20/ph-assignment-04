@@ -12,3 +12,6 @@ function  resultReport( marks ) {
     else return "Invalid";
 }
 console.log(resultReport([98, 87, 67, 91, 92, 33, 87]));
+let result = resultReport([98, 87, 67, 91, 92, 33, 87]);
+console.log(typeof result);
+
